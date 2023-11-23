@@ -1,6 +1,4 @@
 import streamlit as st
-
-<!DOCTYPE html> 
 <html> 
   
 <head> 
