@@ -1,1 +1,3 @@
-Éljenek a patrikok és a máték
+import streamlit as st
+
+st.write("some one end my life")
